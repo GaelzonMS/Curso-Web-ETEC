@@ -9,5 +9,6 @@ int main (){
     int num_cadena = 1;
     
     printf("La cadena N. %i es %c", num_cadena, cadena);
+    // esto es una prueba de git
     return 0;
 }
